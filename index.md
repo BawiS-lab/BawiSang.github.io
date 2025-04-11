@@ -6,15 +6,11 @@ permalink: /
 
 # Hi, I'm Bawi Sang 👋
 
-I'm a data-driven Information Systems graduate with a Computer Science minor from UMBC.  
-I have strong experience in **SQL, Python, Tableau, Power BI, and ETL processes**.
+I'm a data-driven **Information Systems graduate** with a **Computer Science minor** from UMBC.
 
-I’m passionate about using data to uncover insights and drive smarter decision-making.  
-Welcome to my portfolio!
+I specialize in **Python, SQL, Tableau, Power BI**, and **data visualization** to uncover actionable insights and drive smarter decisions.
 
-## Featured Projects
-- [Phishing Detection with Machine Learning](projects.html#phishing-detection-with-machine-learning)
-- [Network Intrusion Detection System](projects.html#network-intrusion-detection-system)
-- [World Life Expectancy SQL Analysis](projects.html#world-life-expectancy-sql-analysis)
+Welcome to my portfolio!  
+Feel free to browse my background and projects.
 
-[Check out my full projects →](projects.html)
+[Learn more about me →](/about/)
