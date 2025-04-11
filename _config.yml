@@ -1,13 +1,8 @@
 title: "Bawi Sang | Data Analytics Portfolio"
-description: "Turning data into insights. Python, SQL, Tableau, Power BI."
-url: "https://bawis-lab.github.io/"
-author:
-  name: "Bawi Sang"
-  email: "bawiminsang2012@gmail.com"
-
+description: "Turning data into insights with Python, SQL, Tableau, Power BI"
 theme: minima
+url: "https://bawis-lab.github.io"
 
-# Navigation menu
 header_pages:
   - index.md
   - about.md
