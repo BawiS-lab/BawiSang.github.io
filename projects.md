@@ -6,27 +6,34 @@ permalink: /projects/
 
 # Projects
 
-### 🛡️ Phishing Detection with Machine Learning
-- **Problem:** Phishing attacks are increasingly sophisticated and dangerous.
-- **Tools:** Python, scikit-learn, Flask, Google Safe Browsing API
-- **Solution:** Built a phishing detection web app with 96% model accuracy using a RandomForestClassifier. Integrated a domain reputation API for additional safety checks.
-- **Result:** Delivered a user-friendly tool to classify phishing emails in real time.
-- **[GitHub Repo](https://github.com/BawiS-lab/Gone-Phishin-)**
+Here are some of the projects I've worked on:
+
+### 🛡️ Phishing Detection Web App (Hackathon Project)
+
+- **Role:** Led cross-functional development of a phishing detection web application.
+- **Skills:** Python, Machine Learning (scikit-learn), Flask, Google Safe Browsing API.
+- **Outcome:** Delivered a user-friendly tool that detects fraudulent emails.
 
 ---
 
-### 🌐 Network Intrusion Detection System
-- **Problem:** Growing cybersecurity threats require better network monitoring tools.
-- **Tools:** Python, pandas, scikit-learn, Tableau
-- **Solution:** Trained machine learning models to detect network intrusions with a 97% accuracy rate. Visualized insights through dynamic Tableau dashboards.
-- **Result:** Enhanced understanding of key patterns in intrusion data, helping organizations strengthen security defenses.
-- **[GitHub Repo](#)**
+### 🌐 Network Intrusion Detection System (Capstone Project)
+
+- **Role:** Developed a machine learning model to detect network intrusion patterns.
+- **Skills:** Python, pandas, scikit-learn, Tableau.
+- **Outcome:** Achieved 97% model accuracy and visualized insights with dynamic Tableau dashboards.
 
 ---
 
 ### 🌎 World Life Expectancy SQL Analysis
-- **Problem:** Understanding the impact of socioeconomic factors on life expectancy.
-- **Tools:** SQL, Tableau, Power BI
-- **Solution:** Cleaned, audited, and analyzed large healthcare datasets to identify key health factors. Developed insightful visualizations and reports.
-- **Result:** Presented findings that highlight healthcare spending and education as major predictors of life expectancy.
-- **[GitHub Repo](#)**
+
+- **Role:** Retrieved, cleaned, and analyzed large healthcare datasets using SQL.
+- **Skills:** SQL, Tableau, Power BI.
+- **Outcome:** Identified and visualized key health factors affecting life expectancy.
+
+---
+
+### 🖥️ UMBC Registration Website Optimization (Systems Analysis Project)
+
+- **Role:** Analyzed UMBC’s registration system and proposed workflow improvements.
+- **Skills:** Systems analysis, requirements gathering, process design.
+- **Outcome:** Proposed technical solutions to streamline student registration and improve user satisfaction.
