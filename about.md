@@ -6,18 +6,23 @@ permalink: /about/
 
 # About Me
 
-I'm **Bawi Sang**, a recent graduate from the University of Maryland, Baltimore County (UMBC),  
-with a Bachelor of Science in Information Systems and a minor in Computer Science.
+I'm **Bawi Sang**, a recent graduate from the University of Maryland, Baltimore County (UMBC) with a Bachelor of Science in Information Systems and a minor in Computer Science.
 
-Throughout my education, I’ve developed expertise in:
+**Key Skills:**
+- Data Analysis & Visualization: Python, SQL, Tableau, Power BI, pandas, matplotlib
+- Database Management: MySQL, Oracle, PostgreSQL, Microsoft Access
+- Programming: Python, SQL, C++, Java, R, HTML/CSS
 
-- **Data Analysis & Visualization:** Tableau, Power BI, pandas, matplotlib, scikit-learn, SQL
-- **Programming:** Python, SQL, C++, C, Java, R, JavaScript, HTML, CSS
-- **Database Management:** MySQL, Oracle, PostgreSQL, Microsoft Access
-- **Data Science Skills:** ETL processes, data mining, statistical analysis, business intelligence
+**Certifications:**
+- UMBC Cybersecurity Informatics Certificate
+- Google Data Analytics Professional Certificate
 
-I earned the **Google Data Analytics Professional Certificate** and the **UMBC Cybersecurity Informatics Certificate**, specializing in data-driven threat mitigation and software vulnerability analysis.
+**Education:**
+- Bachelor of Science: Information Systems Major, Computer Science Minor
+- Relevant Coursework: Data Mining, Data Analytics for Cybersecurity, Database Development, Network Design
 
-In my free time, I enjoy working on machine learning projects, volunteering at my local church, and continuously learning new technologies.
+**Other Experience:**
+- Secretary of Youth Department, Chin Bethel Church
+- Fulfillment Associate, Amazon
 
-Let's connect and collaborate!
+[View my projects →](/projects/)
