@@ -19,7 +19,7 @@ I'm **Bawi Sang**, a recent graduate from the University of Maryland, Baltimore 
 
 **Education:**
 - Bachelor of Science: Information Systems Major, Computer Science Minor
-- Relevant Coursework: Data Mining, Data Analytics for Cybersecurity, Database Development, Network Design
+- Relevant Courseworks: Data Mining, Data Analytics for Cybersecurity, Database Development, Network Design
 
 **Other Experience:**
 - Secretary of Youth Department, Chin Bethel Church
