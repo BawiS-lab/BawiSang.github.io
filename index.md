@@ -16,8 +16,12 @@ I specialize in **Python, SQL, Tableau, Power BI**, and **data visualization** t
 
 ## Featured Projects
 
-- Phishing Detection with Machine Learning
-- Network Intrusion Detection System
-- World Life Expectancy SQL Analysis
+<!-- Insert project preview images or cards here -->
+<!-- Example -->
+<!-- <img src="/assets/images/project1.jpg" alt="Project 1 Preview" class="project-pic"> -->
+
+- **Phishing Detection with Machine Learning**
+- **Network Intrusion Detection System**
+- **World Life Expectancy SQL Analysis**
 
 [Learn more about me →](/about/)
