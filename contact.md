@@ -8,6 +8,8 @@ permalink: /contact/
 
 I'm currently seeking data analyst opportunities and would love to connect.
 
-- 📧 Email: [bawiminsang2012@gmail.com](mailto:bawiminsang2012@gmail.com)
-- 💼 LinkedIn: www.linkedin.com/in/bawi-sang-20b6a11b7
-- 🖥️ GitHub: [github.com/BawiS-lab](https://github.com/BawiS-lab)
+- 📧 [Email me](mailto:bawiminsang2012@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/bawi-sang-20b6a11b7)
+- 🖥️ [GitHub](https://github.com/BawiS-lab)
+
+<!-- Add an optional Contact Form link later if needed -->
