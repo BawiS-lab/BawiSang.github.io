@@ -6,9 +6,10 @@ permalink: /projects/
 
 # Projects
 
-Here are some of the projects I've worked on:
+## 🛡️ Phishing Detection Web App
 
-### 🛡️ Phishing Detection Web App (Hackathon Project)
+<!-- Consider adding a picture here: e.g. screenshot of the app -->
+<!-- <img src="/assets/images/phishing-app.jpg" alt="Phishing App Screenshot" class="project-pic"> -->
 
 - **Role:** Led cross-functional development of a phishing detection web application.
 - **Skills:** Python, Machine Learning (scikit-learn), Flask, Google Safe Browsing API.
@@ -16,7 +17,9 @@ Here are some of the projects I've worked on:
 
 ---
 
-### 🌐 Network Intrusion Detection System (Capstone Project)
+## 🌐 Network Intrusion Detection System
+
+<!-- <img src="/assets/images/nids-project.jpg" alt="NIDS Project" class="project-pic"> -->
 
 - **Role:** Developed a machine learning model to detect network intrusion patterns.
 - **Skills:** Python, pandas, scikit-learn, Tableau.
@@ -24,16 +27,8 @@ Here are some of the projects I've worked on:
 
 ---
 
-### 🌎 World Life Expectancy SQL Analysis
+## 🌎 World Life Expectancy SQL Analysis
 
 - **Role:** Retrieved, cleaned, and analyzed large healthcare datasets using SQL.
 - **Skills:** SQL, Tableau, Power BI.
 - **Outcome:** Identified and visualized key health factors affecting life expectancy.
-
----
-
-### 🖥️ UMBC Registration Website Optimization (Systems Analysis Project)
-
-- **Role:** Analyzed UMBC’s registration system and proposed workflow improvements.
-- **Skills:** Systems analysis, requirements gathering, process design.
-- **Outcome:** Proposed technical solutions to streamline student registration and improve user satisfaction.
